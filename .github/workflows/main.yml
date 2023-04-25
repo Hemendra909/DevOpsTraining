@@ -14,4 +14,4 @@ jobs:
         shell: cmd
         run: |
           cd E:\testing-runner\_work\DevOpsTraining\DevOpsTraining\my_private_repository
-          copy . C:\Users\Admin\Desktop\IIS DevOps /y
+          copy . C:\Users\Admin\Desktop\IIS_DevOps /y
