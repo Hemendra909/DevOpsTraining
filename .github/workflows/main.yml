@@ -13,5 +13,5 @@ jobs:
       - name: Add a fake 'git' to the PATH to force checkout to download zipball instead
         shell: cmd
         run: |
-          cd E:\testing-runner\_work\hello\hello\my_private_repository
+          cd E:\testing-runner\_work\DevOpsTraining\DevOpsTraining\my_private_repository
           copy . C:\Users\Admin\Desktop\IIS DevOps /y
